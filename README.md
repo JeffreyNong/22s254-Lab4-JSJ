@@ -1,6 +1,6 @@
 # Lab 4
 Jeffrey Nong 
 
-Stephen Rico
+Steven Rico
 
 Joshua Villasis
