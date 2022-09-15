@@ -1,1 +1,4 @@
-# 22s254-Lab4-JSJ
+# Lab 4
+Jeffrey Nong 
+Stephen Rico
+Joshua Villasis
