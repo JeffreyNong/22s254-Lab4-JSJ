@@ -18,7 +18,6 @@ string readme(string filename) {
     }
 
 
-    cout << txt << endl;
     return txt;
 }
 
