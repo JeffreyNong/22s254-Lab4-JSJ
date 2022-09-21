@@ -1,5 +1,5 @@
 #include <iostream>
-#inlcude "function.h"
+#include "function.h"
 
 int main()
 {
