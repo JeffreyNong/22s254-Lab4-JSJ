@@ -1,11 +1,9 @@
 #include <iostream>
-
-using namespace std;
+#inlcude "function.h"
 
 int main()
 {
-    cout << "Hello World.\n";
-
-
+    std::string fileText = readme("README.md");
+    display(fileText);
     return 1;
 }
