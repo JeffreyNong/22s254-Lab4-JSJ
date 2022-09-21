@@ -22,3 +22,7 @@ string readme(string filename) {
     return txt;
 }
 
+void display(string s)
+{
+  cout << s << endl;
+}
